@@ -13,6 +13,6 @@ In addition to the functions mentioned above, the system in our project still ha
 
 ## Demo
 
-[![demo](https://github.com/user-attachments/assets/db8a6d5a-1235-4fa6-b20f-690629c4f124)](https://www.youtube.com/watch?v=dXrwPEIFxHo&t=113s)
+[![demo](https://github.com/user-attachments/assets/bd7d4850-c492-4be0-9b2d-f7507d639253)](https://www.youtube.com/watch?v=dXrwPEIFxHo&t=113s)
 
 ### The remaining member of our team in developing this project, you can find him [here](https://github.com/TQ-Hung).
